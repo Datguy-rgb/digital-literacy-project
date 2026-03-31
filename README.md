@@ -52,8 +52,8 @@ Prepared a case study on phishing and made a prevention checklist to spread awar
 
 ---
 
-##  Important Links
-- GitHub Repository:
+##  Links
+- GitHub Repository: https://github.com/Datguy-rgb/Digital-Literacy
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLScxKq5VT147_LKxihS54QhMqIZKukr9s_Pg4fpDoui-xj8zcA/viewform?usp=dialog
 
 ---
