@@ -1,4 +1,5 @@
-#  Digital Literacy Portfolio
+#  Digital Literacy
+By Aman Kumar Singh, 25MIM10175
 
 ##  Project Overview
 This project is part of the CSE0001 Digital Literacy course. As per the role given to me as a Student Digital Ambassador, the objective of this project is to develop essential digital skills and help peers understand the importance of responsible and effective use of digital tools.
