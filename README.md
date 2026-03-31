@@ -1,13 +1,5 @@
 #  Digital Literacy Portfolio
 
-##  My Details
-- Name: Aman Kumar Singh 
-- Registration Number: 25MIM10175
-- Branch: Artificial Intelligence
-- Year: 1st Year Int. Mtech
-
----
-
 ##  Project Overview
 This project is part of the CSE0001 Digital Literacy course. As per the role given to me as a Student Digital Ambassador, the objective of this project is to develop essential digital skills and help peers understand the importance of responsible and effective use of digital tools.
 
@@ -61,10 +53,10 @@ Prepared a case study on phishing and made a prevention checklist to spread awar
 ##  Tools & Platforms Used
 - Canva (Infographic Design)
 - GitHub (Project Hosting)
-- LinkedIn (Professional Networking)
-- Stack Overflow (Technical Q&A)
+- LinkedIn (Networking)
+- Stack Overflow 
 - HackerRank (Coding Practice)
-- Google Forms (Quiz Creation)
+- Google Forms (Quiz Making)
 
 ---
 
